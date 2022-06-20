@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\bin\Debug\net6.0\Logical Programs.exe
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\bin\Debug\net6.0\Logical Programs.deps.json
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\bin\Debug\net6.0\Logical Programs.runtimeconfig.json
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\bin\Debug\net6.0\Logical Programs.dll
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\bin\Debug\net6.0\Logical Programs.pdb
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\obj\Debug\net6.0\Logical Programs.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\obj\Debug\net6.0\Logical Programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\obj\Debug\net6.0\Logical Programs.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\obj\Debug\net6.0\Logical Programs.AssemblyInfo.cs
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\obj\Debug\net6.0\Logical Programs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\obj\Debug\net6.0\Logical Programs.dll
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\obj\Debug\net6.0\refint\Logical Programs.dll
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\obj\Debug\net6.0\Logical Programs.pdb
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\obj\Debug\net6.0\Logical Programs.genruntimeconfig.cache
+C:\Users\User\Desktop\bridgelabz solutions\Logical Programs\Logical Programs\obj\Debug\net6.0\ref\Logical Programs.dll
