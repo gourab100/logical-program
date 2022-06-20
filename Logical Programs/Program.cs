@@ -1,29 +1,15 @@
 ﻿
-Console.WriteLine(" Fibonacci Series ");
+ Console.WriteLine(" Reverse a number ");
 
-
-
-int n = Convert.ToInt32(Console.ReadLine());
-int first = 0, second = 1, result, i;
-Console.WriteLine("fibonacci series is:");
-for (i = 0; i < n; i++)
+int i = Convert.ToInt32(Console.ReadLine());
+int revr = 0;
+while (i != 0)
 {
-    if (i <= 1)
-        result = i;
-    else
-    {
-        result = first + second;
-        first = second;
-        second = result;
-    }
-    Console.WriteLine(result);
+    revr = revr * 10 + i % 10;
+    i = i / 10;
 
 }
-
-
-
-
-
+Console.WriteLine(" After reversing :" + revr);
 
 
 
