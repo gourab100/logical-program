@@ -1,27 +1,21 @@
 ﻿
-Console.WriteLine(" Fibonacci Series ");
+Console.WriteLine("Perfect number");
 
-
-
-int n = Convert.ToInt32(Console.ReadLine());
-int first = 0, second = 1, result, i;
-Console.WriteLine("fibonacci series is:");
-for (i = 0; i < n; i++)
+int realnum = Convert.ToInt32(Console.ReadLine());
+int rem, sum = 0, i;
+for (i = 1; i <= realnum / 2; i++)
 {
-    if (i <= 1)
-        result = i;
-    else
+    rem = realnum % i;
+    if (rem == 0)
     {
-        result = first + second;
-        first = second;
-        second = result;
+        sum += i;
+
     }
-    Console.WriteLine(result);
-
 }
-
-
-
+if (sum == realnum)
+    Console.WriteLine("it's a perfect number");
+else
+    Console.WriteLine("it's a not perfect number");
 
 
 
