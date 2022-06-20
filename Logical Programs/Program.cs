@@ -1,24 +1,23 @@
 ﻿
-Console.WriteLine(" Fibonacci Series ");
 
-
+Console.WriteLine(" prime number ");
 
 int n = Convert.ToInt32(Console.ReadLine());
-int first = 0, second = 1, result, i;
-Console.WriteLine("fibonacci series is:");
-for (i = 0; i < n; i++)
+int i = 2, temp = 0;
+while (i <= (n / 2))
 {
-    if (i <= 1)
-        result = i;
-    else
+    if (n % i == 0)
     {
-        result = first + second;
-        first = second;
-        second = result;
+        temp = 1;
+        break;
     }
-    Console.WriteLine(result);
-
+    i++;
 }
+if (temp == 1)
+    Console.WriteLine(" it's a not prime number");
+else
+    Console.WriteLine(" it's a prime number");
+
 
 
 
